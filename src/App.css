@@ -1,0 +1,9 @@
+.container{
+    border: 1px solid black;
+    padding: 50px 100px;
+    height: fit-content;
+}
+
+.scoreContainer{
+    margin: 1rem 0;
+}
